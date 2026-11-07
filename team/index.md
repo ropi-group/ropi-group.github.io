@@ -36,7 +36,6 @@ nav:
 
 ## Join Us
 
-We are always looking for motivated students interested in robotics, computer vision, and machine
-learning. If you are interested in a thesis or a PhD position, please get in touch.
+We are always looking for motivated students interested in robotics, computer vision, and artificial intelligence. If you are interested in a thesis or a PhD position, please get in touch.
 
 {% include button.html type="email" text="passalis@csd.auth.gr" link="passalis@csd.auth.gr" %}
