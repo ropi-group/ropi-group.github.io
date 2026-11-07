@@ -1,0 +1,48 @@
+[data-dark=false] {
+  --primary: #1d4f7a;
+  --secondary: #fbe4da;
+  --accent: #e4572e;
+  --navy: #0e1b2c;
+  --text: #1b2430;
+  --background: #ffffff;
+  --background-alt: #f6f6f3;
+  --light-gray: #e3e4e0;
+  --gray: #7b8088;
+  --dark-gray: #3f4650;
+  --overlay: #0e1b2c14;
+}
+
+[data-dark=true] {
+  --primary: #f2916a;
+  --secondary: #5a2b1c;
+  --accent: #e4572e;
+  --navy: #0e1b2c;
+  --text: #f4f5f2;
+  --background: #0e1b2c;
+  --background-alt: #132338;
+  --light-gray: #2a3a52;
+  --gray: #8a94a3;
+  --dark-gray: #c3c9d1;
+  --overlay: #ffffff10;
+}
+
+:root {
+  --title: "Newsreader", serif;
+  --heading: "Newsreader", serif;
+  --body: "Public Sans", sans-serif;
+  --code: "Roboto Mono", monospace;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
+  --thin: 300;
+  --regular: 400;
+  --semi-bold: 500;
+  --bold: 600;
+  --spacing: 1.8;
+  --compact: 1.45;
+  --rounded: 6px;
+  --shadow: 0 1px 3px 0 var(--overlay), 0 6px 20px -8px var(--overlay);
+  --transition: 0.2s ease;
+}
+
+/*# sourceMappingURL=-theme.css.map */
