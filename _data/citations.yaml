@@ -1,0 +1,2968 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- title: Data efficient Deep Reinforcement Learning for Robust Inertial-based UAV Localization
+  authors:
+  - D. Tsiakmakis
+  - N. Passalis
+  - A. Tefas
+  publisher: Robotics and Autonomous Systems
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Leveraging Subclass Learning for Improving Uncertainty Estimation in Deep Learning
+  authors:
+  - D. Spanos
+  - N. Passalis
+  - A. Tefas
+  publisher: Neurocomputing
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Inducing Neural Collapse via Anti-Classes and One-Cold Cross Entropy Loss
+  authors:
+  - D. Katsikas
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Sign potential-driven multiplicative optimization for robust deep reinforcement learning
+  authors:
+  - L. Avramelou
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  publisher: Neural Networks
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Leveraging active perception for real-time high-resolution pose estimation
+  authors:
+  - T. Manousis
+  - E. Eleftheriadis
+  - N. Passalis
+  - A. Tefas
+  publisher: Expert Systems with Applications
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Explicit Bandwidth Learning for FOREX Trading Using Deep Reinforcement Learning
+  authors:
+  - A. Nalmpantis
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Signal Processing Letters
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: A Deep Learning Framework for Photovoltaic Power Forecasting in Multiple Interconnected Countries
+  authors:
+  - C. N. Dimitriadis
+  - N. Passalis
+  - M. C. Georgiadis
+  publisher: Sustainable Energy Technologies and Assessments
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Enhancing Industrial Scheduling through Machine Learning: A Synergistic Approach with Predictive Modeling and Clustering'
+  authors:
+  - Maria E. Samouilidou
+  - Nikolaos Passalis
+  - Georgios P. Georgiadis
+  - M. C. Georgiadis
+  publisher: Computers and Chemical Engineering
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Residual Adaptive Input Normalization for Forecasting Renewable Energy Generation in Multiple Countries
+  authors:
+  - N. Passalis
+  - C. N. Dimitriadis
+  - M. C. Georgiadis
+  publisher: Pattern Recognition Letters
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Reaching the Peta-computing: 163.8 TOPS through Multidimensional AWGR-based Accelerators'
+  authors:
+  - C. Pappas
+  - T. Moschos
+  - A. Prapas
+  - M. Kirtas
+  - M. Moralis-Pegios
+  - A. Tsakyridis
+  - O. Asimopoulos
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: Journal of Lightwave Technology
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: New gravitational wave discoveries enabled by machine learning
+  authors:
+  - A. Eleni Koloniari
+  - E. Chrysovalantou Koursoumpa
+  - P. Nousi
+  - P. Lampropoulos
+  - N. Passalis
+  - A. Tefas
+  - N. Stergioulas
+  publisher: 'Machine Learning: Science and Technology'
+  date: '2025-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Latent Behavior Cloning for Deep Reinforcement Learning Robotic Tasks
+  authors:
+  - R. Voulgarakis
+  - D. Katsikas
+  - N. Passalis
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Integrating Contractive Loss in Proximal Policy Optimization for Robust Decision-Making
+  authors:
+  - M. Dadopoulos
+  - L. Avramelou
+  - N. Passalis
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Single Pass Uncertainty Estimation in Q-Learning via Dropout Distillation
+  authors:
+  - N. Kaparinos
+  - N. Passalis
+  - A. Tefas
+  publisher: International Joint Conference on Neural Networks
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Perception-based Probabilistic Latent Space Matching for Anomaly Detection in Industrial Autonomous Systems
+  authors:
+  - N. M. Panagiotopoulos
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Information, Intelligence, Systems and Applications
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Expert-guided Deep Reinforcement Learning for Autonomous Financial Asset Trading
+  authors:
+  - I. Drossas
+  - L. Avramelou
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Information, Intelligence, Systems and Applications
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Embedded Real-Time Robotic Perception for Lightweight High-Resolution Weed Detection
+  authors:
+  - E. Mpampis
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Information, Intelligence, Systems and Applications
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Model Merging for Deep Reinforcement Learning in Autonomous Financial Trading Systems
+  authors:
+  - L. Avramelou
+  - D. Litsidis
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Information, Intelligence, Systems and Applications
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Robust Robotic Perception using Adaptive Multiplicative Optimization for Deep Reinforcement Learning
+  authors:
+  - L. Avramelou
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Information, Intelligence, Systems and Applications
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Multiplicative Stochastic Gradient Descent for fast and robust deep learning training
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  publisher: International Joint Conference on Neural Networks
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Reliable Uncertainty Estimation in Autonomous Systems via Feature Collapse Mitigation
+  authors:
+  - D. Spanos
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE International Conference on Industrial Cyber-Physical Systems
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Enhancing Large-scale Production Scheduling using Machine-Learning Techniques
+  authors:
+  - M. E. Samouilidou
+  - N. Passalis
+  - G. Georgiadis
+  - M. C. Goergiadis
+  publisher: European Symposium on Computer Aided Process Engineering
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Sepsis Detection Exploiting Biomarker Analysis with Deep Neural Networks
+  authors:
+  - D. Spanos
+  - N. Passalis
+  - D. Spasopoulos
+  - E. Chatzianagnostou
+  - J. C. R. Rodríguez
+  - J. J. G. Lopez
+  - L. M. Lechuga
+  - M. C. Estévez
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE International Conference on Industrial Cyber-Physical Systems
+  date: '2025-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Semi-supervised learning for on-street parking violation prediction using graph convolutional networks
+  authors:
+  - N. Karantaglis
+  - N. Passalis
+  - A. Tefas
+  publisher: Neural Computing and Applications
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'VPIT: Real-time embedded single object 3D tracking using voxel pseudo images'
+  authors:
+  - I. Oleksiienko
+  - P. Nousi
+  - N. Passalis
+  - A. Tefas
+  - A. Iosifidis
+  publisher: Neural Computing and Applications
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Online probabilistic knowledge distillation on cryptocurrency trading using Deep Reinforcement Learning
+  authors:
+  - V. Moustakidis
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Predicting the immunomodulatory activity of probiotic lactic acid bacteria using supervised machine learning in a Cornu aspersum snail model
+  authors:
+  - E. Charizani
+  - E. Dushku
+  - M. Kyritsi
+  - E.T. Metallinou
+  - A. Karathodorou
+  - E. Amanetidou
+  - M.M. Kokkaleniou
+  - N. Passalis
+  - A. Tefas
+  - A. Staikou
+  - M. Yiangou
+  publisher: Fish & Shellfish Immunology
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Multiplicative update rules for accelerating deep learning training and increasing robustness
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  publisher: Neurocomputing
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep reinforcement learning for financial trading using multi-modal features
+  authors:
+  - L. Avramelou
+  - P. Nousi
+  - N. Passalis
+  - A. Tefas
+  publisher: Expert Systems with Applications
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: A synthetic human-centric dataset generation pipeline for active robotic vision
+  authors:
+  - C. Georgiadis
+  - N. Passalis
+  - N. Nikolaidis
+  publisher: Pattern Recognition Letters, 2024
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Programmable Tanh- and ELU-based photonic neurons in optics-informed neural networks
+  authors:
+  - S. Kovaios
+  - C. Pappas
+  - M. Moralis-Pegios
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - M. Kirtas
+  - J. Kerrebrouck
+  - G. Coudyzer
+  - X. Yin
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: Journal of Lightwave Technology
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Robotic safe adaptation in unprecedented situations: the RoboSAPIENS project'
+  authors:
+  - P.G. Larsen
+  - S. Ali
+  - R. Behrens
+  - A. Cavalcanti
+  - C. Gomes
+  - G. Li
+  - P. Meulenaere
+  - M. Olsen
+  - N. Passalis
+  - T. Peyrucain
+  - J. Tapia
+  - A. Tefas
+  - H. Zhang
+  publisher: 'Research Directions: Cyber-Physical Systems, 2024'
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Photonic neural networks and optics-informed deep learning fundamentals
+  authors:
+  - A. Tsakyridis
+  - M. Moralis-Pegios
+  - G. Giamougiannis
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: APL Photonics
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep residual error and bag-of-tricks learning for gravitational wave surrogate modelling
+  authors:
+  - S.C. Fragkouli
+  - P. Nousi
+  - N. Passalis
+  - P. Iosif
+  - N. Stergioulas
+  - A. Tefas
+  publisher: Applied Soft Computing
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Mixed-precision quantization-aware training for photonic neural networks
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - A. Oikonomou
+  - M. Moralis-Pegios
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - G. Mourgias-Alexandris
+  - N. Pleros
+  - A. Tefas
+  publisher: Neural Computing and Applications
+  date: '2024-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Bi-Directional Knowledge Transfer For Continual Deep Reinforcement Learning in Financial Trading
+  authors:
+  - D. Katsikas
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE 34th International Workshop on Machine Learning for Signal Processing
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Probabilistic Knowledge Transfer for Lightweight Vision Transformers
+  authors:
+  - I. Bountouris
+  - N. Passalis
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Quantization-Aware Training for Multi-Agent Reinforcement Learning
+  authors:
+  - N. Chandrinos
+  - M. Amasialidis
+  - M. Kirtas
+  - K. Tsampazis
+  - N. Passalis
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Multiplicative RMSprop Using Gradient Normalization for Learning Acceleration
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Plasticity Driven Knowledge Transfer for Continual Deep Reinforcement Learning in Financial Trading
+  authors:
+  - D. Katsikas
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Large Models in Dialogue for Active Perception and Anomaly Detection
+  authors:
+  - D. Chamiti
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: A TeraFLOP Photonic Matrix Multiplier using Time-Space-Wavelength Multiplexed AWGR-based Architectures
+  authors:
+  - C. Pappas
+  - T. Moschos
+  - M. Moralis-Pegios
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: Optical Fiber Communications Conference and Exhibition (OFC), 2024
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Optics-informed Neural Networks: Bridging Deep Learning with Photonic Accelerators'
+  authors:
+  - M. Moralis-Pegios
+  - A. Tsakyridis
+  - C. Pappas
+  - T. Moschos
+  - G. Giamougiannis
+  - S. Kovaios
+  - I. Roumpos
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: Optical Fiber Communication Conference
+  date: '2024-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep residual networks for gravitational wave detection
+  authors:
+  - P. Nousi
+  - A.E. Koloniari
+  - N. Passalis
+  - P. Iosif
+  - N. Stergioulas
+  - A. Tefas
+  publisher: Physical Review D
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Analog nanophotonic computing going practical: silicon photonic deep learning engines for tiled optical matrix multiplication with dynamic precision'
+  authors:
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - M. Moralis-Pegios
+  - C. Pappas
+  - M. Kirtas
+  - N. Passalis
+  - D. Lazovsky
+  - A. Tefas
+  - Pleros
+  publisher: Nanophotonics
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: High-performance end-to-end deep learning IM/DD link using optics-informed neural networks
+  authors:
+  - I. Roumpos
+  - L.D. Marinis
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - G. Contestabile
+  - N. Pleros
+  - M. Moralis-Pegios
+  - K. Vyrsokinos
+  publisher: Optics Express
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Mutual Information-Based Neural Network Distillation for Improving Photonic Neural Network Training
+  authors:
+  - A. Chariton
+  - N. Passalis
+  - N. Pleros
+  - A. Tefas
+  publisher: Neural Processing Letters
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Modelling Limit Order Trading with a Continuous Action Policy for Deep Reinforcement Learning
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  publisher: Neural Networks
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Programmable Tanh-, ELU-, Sigmoid-, Sin-Based Nonlinear Activation Functions for Neuromorphic Photonics
+  authors:
+  - C. Pappas
+  - S. Kovaios
+  - M. Moralis-Pegios
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - M. Kirtas
+  - J. V. Kerrebrouck
+  - G. Coudyzer
+  - X. Yin
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: First machine learning gravitational-wave search mock data challenge
+  authors:
+  - M. B. Schäfer
+  - O. Zelenka
+  - A. H. Nitz
+  - H. Wang
+  - S. Wu
+  - Z.-K. Guo
+  - Z. Cao
+  - Z. Ren
+  - P. Nousi
+  - N. Stergioulas
+  - P. Iosif
+  - A. E. Koloniari
+  - A. Tefas
+  - N. Passalis
+  - F. Salemi
+  - G. Vedovato
+  - S. Klimenko
+  - T. Mishra
+  - B. Brügmann
+  - E. Cuoco
+  - E. A. Huerta
+  - C. Messenger
+  - F. Ohme
+  publisher: Physical Review D
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Neuromorphic silicon photonics with 50 GHz tiled matrix multiplication for deep-learning applications
+  authors:
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - M. Moralis-Pegios
+  - G. Mourgias-Alexandris
+  - A. R. Totovic
+  - G. Dabos
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - D. Kalavrouziotis
+  - D. Syrivelis
+  - P. Bakopoulos
+  - E. Mentovich
+  - D. Lazovsky
+  - N. Pleros
+  publisher: Advanced Photonics
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Quantization-aware Training for Low Precision Photonic Neural Networks
+  authors:
+  - M. Kirtas
+  - A. Oikonomou
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - N. Pleros
+  - A. Tefas
+  publisher: Neural Networks
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Predicting on-street parking violation rate using deep residual neural networks
+  authors:
+  - N. Karantaglis
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Robust architecture-agnostic and noise resilient training of photonic deep learning models
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - G. Dabos
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE Transactions on Emerging Topics in Computational Intelligence
+  date: '2023-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Domain-Specific Large Language Model Finetuning using a Model Assistant for Financial Text Summarization
+  authors:
+  - L. Avramelou
+  - N. Passalis
+  - G. Tsoumakas
+  - A. Tefas
+  publisher: IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Symmetric Fine-Tuning for Improving Few-Shot Object Detection
+  authors:
+  - E. Mpampis
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Active Robotic Perception for Improving Face Recognition Under Occlusions
+  authors:
+  - V. Dimaridou
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Active Perception for Object Detection using Navigation Proposals
+  authors:
+  - S. Ginargiros
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Variational Voxel Pseudo Image Tracking
+  authors:
+  - I. Oleksiienko
+  - P. Nousi
+  - N. Passalis
+  - A. Tefas
+  - A. Iosifidis
+  publisher: IEEE Symposium Series on Computational Intelligence (SSCI)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Enabling high-resolution pose estimation in real time using active perception
+  authors:
+  - T. Manousis
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE International Conference on Image Processing (ICIP)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'ActiveFace: A Synthetic Active Perception Dataset for Face Recognition'
+  authors:
+  - C. Georgiadis
+  - N. Passalis
+  - N. Nikolaidis
+  publisher: IEEE International Workshop on Multimedia Signal Processing (MMSP)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Leveraging Active and Continual Learning for Improving Deep Face Recognition in-the-Wild
+  authors:
+  - P. Tosidis
+  - N. Passalis
+  - A. Tefas
+  publisher: 2023 IEEE International Workshop on Multimedia Signal Processing (MMSP)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Quantization-Aware Training for Mixed Precision Photonic Neural Networks
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - A. Oikonomou
+  - M. Moralis-Pegios
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - G. Mourgias-Alexandris
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Reinforcement Learning With Action Masking for Differential-Drive Robot Navigation Using Low-Cost Sensors
+  authors:
+  - K. Tsampazis
+  - M. Kirtas
+  - P. Tosidis
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Calibration of a Photonic Neural Network Considering Fabrication Tolerances
+  authors:
+  - O. Düzgöl
+  - M. Kirtas
+  - N. Passalis
+  - A. Richter
+  publisher: International Conference on Transparent Optical Networks (ICTON)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: A Sharpe Ratio based reward scheme in Deep Reinforcement Learning for financial trading
+  authors:
+  - G. Rodinos
+  - P. Nousi
+  - N. Passalis
+  - A. Tefas
+  publisher: IFIP International Conference on Artificial Intelligence Applications and Innovations
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: DDOS attack identification via a silicon photonic Deep Neural Network with 50 GHz input and weight update
+  authors:
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - M. Moralis-Pegios
+  - G. Mourgias-Alexandris
+  - A. R. Totovic
+  - G. Dabos
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - D. Kalavrouziotis
+  - D. Syrivelis
+  - P. Bakopoulos
+  - E. Mentovich
+  - N. Pleros
+  publisher: Optical Fiber Communication Conference
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Learning for Active Robotic Perception
+  authors:
+  - N. Passalis
+  - P. Tosidis
+  - T. Manousis
+  - A. Tefas
+  publisher: International Joint Conference on Computational Intelligence (IJCCI)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Physics-inspired End-to-End Deep Learning for High-Performance Optical Fiber Transmission Links
+  authors:
+  - I. Roumpos
+  - L. De Marinis
+  - G. Mourgias-Alexandris
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - G. Contestabile
+  - K. Vyrsokinos
+  - N. Pleros
+  - M. Moralis-Pegios
+  publisher: 'CLEO: Science and Innovations'
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: End-to-End Trainable Gaussian Filtering for Electrocardiogram Signal Classification using Deep Learning
+  authors:
+  - A. Nalmpantis
+  - N. Passalis
+  - A. Tefas
+  publisher: 31th European Signal Processing Conference (EUSIPCO)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Inertial-based UAV Localization using Data-Efficient Deep Reinforcement Learning
+  authors:
+  - D. Tsiakmakis
+  - N. Passalis
+  - A. Tefas
+  publisher: 31th European Signal Processing Conference (EUSIPCO)
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'CRYPTOSENTIMENT: A dataset and baseline for Sentiment-aware Deep Reinforcement Learning for Financial Trading'
+  authors:
+  - L. Avramelou
+  - P. Nousi
+  - N. Passalis
+  - S. Doropoulos
+  - A. Tefas
+  publisher: 11th International Workshop on Computational Intelligence for Multimedia Understanding - IEEE ICASSP Satellite Workshop
+  date: '2023-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Multisource Financial Sentiment Analysis for Detecting Bitcoin Price Change Indications using Deep Learning
+  authors:
+  - N. Passalis
+  - L. Avramelou
+  - S. Seficha
+  - A. Tsantekidis
+  - S. Doropoulos
+  - G. Makris
+  - Anastasios Tefas
+  publisher: Neural Computing and Applications
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Noise-resilient and high-speed deep learning with coherent silicon photonics
+  authors:
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - A. Tsakyridis
+  - S. Simos
+  - G. Dabos
+  - A. Totovic
+  - N. Passalis
+  - M. Kirtas
+  - T. Rutirawut
+  - F.Y. Gardes
+  - A. Tefas
+  - N. Pleros
+  publisher: Nature Communications
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Universal Linear Optics Revisited: New Perspectives for Neuromorphic Computing with Silicon Photonics'
+  authors:
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - M. Moralis-Pegios
+  - A. Totovic
+  - M. Kirtas
+  - N. Passalis
+  - D. Lazovsky
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Universal Linear Optics for Ultra-Fast Neuromorphic Silicon Photonics Towards Fj/MAC and TMAC/sec/mm2 Engines
+  authors:
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - M. Moralis-Pegios
+  - G. Mourgias-Alexandris
+  - A. Totovic
+  - M. Kirtas
+  - N. Passalis
+  - D. Lazovsky
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Autoencoder-driven spiral representation learning for gravitational wave surrogate modelling
+  authors:
+  - P. Nousi
+  - S.-C. Fragkouli
+  - N. Passalis
+  - P. Iosif
+  - T. Apostolatos
+  - G. Pappas
+  - N. Stergioulas
+  - A. Tefas
+  publisher: Neurocomputing
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Attention-based Neural Bag-of-Features Learning for Sequence Data
+  authors:
+  - D. Thanh Tran
+  - N. Passalis
+  - A. Tefas
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE Access
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Graph Embedding with Data Uncertainty
+  authors:
+  - F. Laakom
+  - N. Passalis
+  - J. Raitoharju
+  - J. Nikkanen
+  - A. Tefas
+  - A. Iosifidis
+  - M. Gabbouj
+  publisher: IEEE Access
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Neuromorphic Silicon Photonics and Hardware-aware Deep Learning for High-Speed Inference
+  authors:
+  - M. Moralis-Pegios
+  - G. Mourgias-Alexandris
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - A. Totovic
+  - G. Dabos
+  - N. Passalis
+  - M. Kirtas
+  - T. Rutirawut
+  - F. Y. Gardes
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE/OSA Journal of Lightwave Technology
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: WDM Equipped Universal Linear Optics for Programmable Neuromorphic Photonic Processors
+  authors:
+  - A. Totovic
+  - C. Pappas
+  - M. Kirtas
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - N. Passalis
+  - M. Moralis-Pegios
+  - A. Tefas
+  - N. Pleros
+  publisher: Neuromorphic Computing and Engineering
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Channel response-aware photonic neural network accelerators for high-speed inference through bandwidth-limited optics
+  authors:
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - A. Tsakyridis
+  - N. Passalis
+  - M. Kirtas
+  - A. Tefas
+  - T. Rutirawut
+  - F. Y. Gardes
+  - N. Pleros
+  publisher: Optics Express
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Probabilistic Online Self-Distillation
+  authors:
+  - M. Tzelepi
+  - N. Passalis
+  - A. Tefas
+  publisher: Neurocomputing
+  date: '2022-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'OpenDR: An Open Toolkit for Enabling High Performance, Low Footprint Deep Learning for Robotics'
+  authors:
+  - N. Passalis
+  - S. Pedrazzi
+  - R. Babuska
+  - W. Burgard
+  - D. Dias
+  - F. Ferro
+  - M. Gabbouj
+  - O. Green
+  - A. Iosifidis
+  - E. Kayacan
+  - J. Kober
+  - O. Michel
+  - N. Nikolaidis
+  - P. Nousi
+  - R. Pieters
+  - M. Tzelepi
+  - A. Valada
+  - A. Tefas
+  publisher: IEEE/RSJ International Conference on Intelligent Robots (IROS)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Noise Resilience in End-to-End Deep Learning Optical Fiber Transmission Links
+  authors:
+  - L. De Marinis
+  - I. Roumpos
+  - G. Mourgias-Alexandris
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - G. Contestabile
+  - K. Vyrsokinos
+  - N. Pleros
+  - M. Moralis-Pegios
+  publisher: Asia Communications and Photonics Conference (APC)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Online Knowledge Distillation for Financial Timeseries Forecasting
+  authors:
+  - P. Floratos
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning photonic neural network initialization for noise-aware end-to-end fiber transmission
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - G. Dabos
+  - N. Pleros
+  - A. Tefas
+  publisher: 30th European Signal Processing Conference (EUSIPCO)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Active Vision Control Policies for Face Recognition using Deep Reinforcement Learning
+  authors:
+  - P. Tosidis
+  - N. Passalis
+  - A. Tefas
+  publisher: 30th European Signal Processing Conference (EUSIPCO)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Deep Video Stream Information Analysis and Retrieval: Challenges and Opportunities'
+  authors:
+  - N. Passalis
+  - M. Tzelepi
+  - P. Charitidis
+  - S. Doropoulos
+  - S. Vologiannidis
+  - A. Tefas
+  publisher: IEEE 5th International Conference on Multimedia Information Processing
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Photonic Neuromorphic Computing: Architectures, Technologies, Training Models'
+  authors:
+  - M. Moralis-Pegios
+  - A. Totovic
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - G. Mourgias-Alexandris
+  - G. Dabos
+  - N. Passalis
+  - M. Kirtas
+  - A. Tefas
+  - and N. Pleros
+  publisher: Optical Fiber Communications Conference and Exhibition
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: High-speed analog photonic computing with tiled matrix multiplication and dynamic precision capabilities for DNNs
+  authors:
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - M. Moralis-Pegios
+  - C. Pappas
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - and N. Pleros
+  publisher: European Conference on Optical Communication (ECOC)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Bag-Of-Features-Based Knowledge Distillation For Lightweight Convolutional Neural Networks
+  authors:
+  - A. Chariton
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE International Conference on Image Processing (ICIP)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: A Novel Dataset for Evaluating and Alleviating Domain Shift for Human Detection in Agricultural Fields
+  authors:
+  - P. Nousi
+  - E. Mpampis
+  - N. Passalis
+  - O. Green
+  - A. Tefas
+  publisher: IEEE Symposium Series On Computational Intelligence
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Normalized Post-training Quantization for Photonic Neural Networks
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - A. Oikonomou
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE Symposium Series On Computational Intelligence
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Sentiment-aware Distillation for Bitcoin Trend Forecasting Under Partial Observability
+  authors:
+  - G. Panagiotatos
+  - N. Passalis
+  - A. Tsantekidis
+  - A. Tefas
+  publisher: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Electric load demand forecasting on Greek Energy Market using lightweight neural networks
+  authors:
+  - N. Maragkos
+  - M. Tzelepi
+  - N. Passalis
+  - A. Adamakos
+  - A. Tefas
+  publisher: IEEE Image, Video, Multidimensional Signal Processing Workshop (IVMSP)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Learning for On-Street Parking Violation Prediction
+  authors:
+  - N. Karantaglis
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Image, Video, Multidimensional Signal Processing Workshop (IVMSP)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Early Detection of DDoS Attacks using Photonic Neural Networks
+  authors:
+  - M. Kirtas
+  - N. Passalis
+  - D. Kalavrouziotis
+  - D. Syrivelis
+  - P. Bakopoulos
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE Image, Video, Multidimensional Signal Processing Workshop (IVMSP)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: A robust, quantization-aware training method for photonic neural networks
+  authors:
+  - A. Oikonomou
+  - M. Kirtas
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - N. Pleros
+  - A. Tefas
+  publisher: Engineering Applications and Advances of Artificial Intelligence Conference (EANN)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Silicon Photonic Neuromorphic Computing with 16 GHz Input Data and Weight Update Line Rates
+  authors:
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - G. Mourgias-Alexandris
+  - A. Totovic
+  - G. Dabos
+  - N. Passalis
+  - M. Kirtas
+  - A. Tefas
+  - M. Moralis-Pegios
+  - N. Pleros
+  publisher: Conference on Lasers and Electro-Optics (CLEO)
+  date: '2022-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Knowledge Distillation
+  authors:
+  - N. Passalis
+  - M. Tzelepi
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Recurrent Neural Networks
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Reinforcement Learning
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Lightweight Deep Learning
+  authors:
+  - P. Nousi
+  - M. Tzelepi
+  - N. Passalis
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Representation Learning and Retrieval
+  authors:
+  - M. Tzelepi
+  - P. Nousi
+  - N. Passalis
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep learning for robotics examples using OpenDR
+  authors:
+  - M. Kirtas
+  - K. Tsampazis
+  - P. Tosidis
+  - N. Passalis
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Neural Networks and Backpropagation
+  authors:
+  - A. Zaras
+  - N. Passalis
+  - A. Tefas
+  publisher: Deep Learning for Robot Perception and Cognition (A. Iosifidis, A. Tefas, eds.), Elsevier
+  date: '2022-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Adaptive Group-based Input Normalization for Financial Trading
+  authors:
+  - A. Nalmpantis
+  - N. Passalis
+  - A. Tsantekidis
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2021-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Diversity-driven Knowledge Distillation for Financial Trading using Deep Reinforcement Learning
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  publisher: Neural Networks
+  date: '2021-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Online Subclass Knowledge Distillation
+  authors:
+  - M. Tzelepi
+  - N. Passalis
+  - A. Tefas
+  publisher: Expert Systems With Applications
+  date: '2021-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep supervised hashing using quadratic spherical mutual information for efficient image retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: 'Signal Processing: Image Communication'
+  date: '2021-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'deepsing: Generating sentiment-aware visual stories using cross-modal music translation'
+  authors:
+  - N. Passalis
+  - S. Doropoulos
+  publisher: Expert Systems with Applications
+  date: '2021-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Knowledge Distillation using Unified Ensembles of Specialized Teachers
+  authors:
+  - A. Zaras
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2021-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Pseudo-Active Vision for Improving Deep Visual Perception through Neural Sensory Refinement
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE International Conference on Image Processing (ICIP)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Deep Reinforcement Learning for Financial Trading using Deep Adaptive Group-based Normalization
+  authors:
+  - A. Nalmpantis
+  - N. Passalis
+  - A. Tsantekidis
+  - A. Tefas
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Adaptive Inference for Face Recognition leveraging Deep Metric Learning-enabled Early Exits
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning Sentiment-aware Trading Strategies for Bitcoin leveraging Deep Learning-based Financial News Analysis
+  authors:
+  - N. Passalis
+  - S. Seficha
+  - A. Tsantekidis
+  - A. Tefas
+  publisher: International Conference on Artificial Intelligence Applications and Innovations (AIAI)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Temporal Difference Rewards for End-to-end Vision-based Active Robot Tracking using Deep Reinforcement Learning
+  authors:
+  - P. Tiritiris
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Emerging Techniques in Computational Intelligence (ICETCI)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: End-to-end deep learning with neuromorphic photonics
+  authors:
+  - G. Dabos
+  - G. Mourgias-Alexandris
+  - A. Totovic
+  - M. Kirtas
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: 'Integrated Optics: Devices, Materials, Technologies XXV'
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Silicon-integrated coherent neurons with 32GMAC/sec/axon compute line-rates using EAM-based input and weighting cells
+  authors:
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - A. Totovic
+  - G. Dabos
+  - N. Passalis
+  - M. Kirtas
+  - N. Bamiedakis
+  - A. Tefas
+  - D. Lazovsky
+  - Nikos Pleros
+  publisher: European Conference on Optical Communication (ECOC)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: A Silicon Photonic Coherent Neuron with 10GMAC/sec processing line-rate
+  authors:
+  - G. Mourgias-Alexandris
+  - M. Moralis-Pegios
+  - S. Simos
+  - G. Dabos
+  - N. Passalis
+  - M. Kirtas
+  - T. Rutirawut
+  - F. Y. Gardes
+  - A. Tefas
+  - Nikos Pleros
+  publisher: Optical Fiber Communications Conference and Exhibition (OFC)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Compute with Light: Architectures, Technologies and Training Models for Neuromorphic Photonic Circuits'
+  authors:
+  - N. Pleros
+  - M. Moralis-Pegios
+  - A. Totovic
+  - G. Dabos
+  - A. Tsakyridis
+  - G. Giamougiannis
+  - G. Mourgias-Alexandris
+  - N. Passalis
+  - M. Kirtas
+  - A. Tefas
+  publisher: European Conference on Optical Communication (ECOC)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient Realistic Data Generation Framework leveraging Deep Learning-based Human Digitization
+  authors:
+  - C. Symeonidis
+  - P. Nousi
+  - P. Tosidis
+  - K. Tsampazis
+  - N. Passalis
+  - A. Tefas
+  - N. Nikolaidis
+  publisher: International Conference on Engineering Applications of Neural Networks
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 25GMAC/sec/axon photonic neural networks with 7GHz bandwidth optics through channel response-aware training
+  authors:
+  - G. Mourgias-Alexandris
+  - A. Tsakyridis
+  - N. Passalis
+  - M. Kirtas
+  - A. Tefas
+  - T. Rutirawut
+  - F. Y. Gardes
+  - N. Pleros
+  - M. Moralis Pegios
+  publisher: European Conference on Optical Communication (ECOC)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Silicon-integrated coherent neurons with 32GMAC/sec/axon compute line-rates using EAM-based input and weighting cells
+  authors:
+  - G. Giamougiannis
+  - A. Tsakyridis
+  - G. Mourgias-Alexandris
+  - M. Moralis Pegios
+  - A. Totovic
+  - G. Dabos
+  - N. Passalis
+  - M. Kirtas
+  - N. Bamiedakis
+  - A. Tefas
+  - D. Lazovsky
+  - N. Pleros
+  publisher: European Conference on Optical Communication (ECOC)
+  date: '2021-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Multi-level Reversible Data Anonymization via Compressive Sensing and Data Hiding
+  authors:
+  - M. Yamac
+  - M. Ahishali
+  - J. Raitharju
+  - N. Passalis
+  - M. Gabbouj
+  - B. Sankur
+  publisher: IEEE Transactions on Information Forensics & Security
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Forecasting Financial Time Series using Robust Deep Adaptive Input Normalization
+  authors:
+  - N. Passalis
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  - A. Tefas
+  publisher: Journal of Signal Processing Systems
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: A Photonic Recurrent Neuron for Time-Series Classification
+  authors:
+  - G. Mourgias-Alexandris
+  - N. Passalis
+  - G. Dabos
+  - A. Totovic
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE/OSA Journal of Lightwave Technology
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Bag of Color Features For Color Constancy
+  authors:
+  - F. Laakom
+  - N. Passalis
+  - J. Raitoharju
+  - J. Nikkanen
+  - A. Tefas
+  - A. Iosifidis
+  - M. Gabbouj
+  publisher: IEEE Transactions on Image Processing
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Temporal Logistic Neural Bag-of-Features for Financial Time series Forecasting leveraging Limit Order Book Data
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: Pattern Recognition Letters
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Initializing Photonic Feed-forward Neural Networks using Auxiliary Tasks
+  authors:
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - N. Pleros
+  - A. Tefas
+  publisher: Neural Networks
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Probabilistic Knowledge Transfer for Lightweight Deep Representation Learning
+  authors:
+  - N. Passalis
+  - M. Tzelepi
+  - A. Tefas
+  publisher: Transactions on Neural Networks and Learning Systems
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Price Trailing for Financial Trading using Deep Reinforcement Learning
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Toufa
+  - K. Saitas-Zarkias
+  - A. Tefas
+  publisher: Transactions on Neural Networks and Learning Systems
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Recurrent Bag-of-Features for Visual Information Analysis
+  authors:
+  - M. Krestenitis
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: Pattern Recognition
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient Adaptive Inference for Deep Convolutional Neural Networks using Hierarchical Early Exits
+  authors:
+  - N. Passalis
+  - J. Raitoharju
+  - A. Tefas
+  - M. Gabbouj
+  publisher: Pattern Recognition
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Hypersphere-based Weight Imprinting for Few-shot Learning on Embedded Devices
+  authors:
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: Transactions on Neural Networks and Learning Systems
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Femtojoule per MAC Neuromorphic Photonics: An Energy and Technology Roadmap'
+  authors:
+  - A. Totovic
+  - G. Dabos
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: All-optical WDM Recurrent Neural Networks with Gating
+  authors:
+  - G. Mourgias-Alexandris
+  - G. Dabos
+  - N. Passalis
+  - A. Totovic
+  - A. Tefas
+  - N. Pleros
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Using Deep Learning for price prediction by exploiting stationary limit order book features
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: Applied Soft Computing
+  date: '2020-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Leveraging Quadratic Spherical Mutual Information Hashing for Fast Image Retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition (ICPR)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient Online Subclass Knowledge Distillation for Image Classification
+  authors:
+  - M. Tzelepi
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition (ICPR)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Human Action Recognition using Recurrent Bag-of-Features Pooling
+  authors:
+  - M. Krestenitis
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: 'ICPR Workshop on Image Mining: Theory and Applications'
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Global Adaptive Input Normalization for Short-Term Electric Load Forecasting
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Symposium Series on Computational Intelligence
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient Adaptive Inference leveraging Bag-of-Features-based Early Exits
+  authors:
+  - N. Passalis
+  - J. Raitoharju
+  - M. Gabbouj
+  - A. Tefas
+  publisher: IEEE International Workshop on Multimedia Signal Processing
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Heterogeneous Knowledge Distillation using Information Flow Modeling
+  authors:
+  - N. Passalis
+  - M. Tzelepi
+  - Anastasios Tefas
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Leveraging Deep Reinforcement Learning for Active Shooting under Open-World Setting
+  authors:
+  - A. Tzimas
+  - N. Passalis
+  - Anastasios Tefas
+  publisher: IEEE International Conference on Multimedia and Expo
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Deep Reinforcement Learning for Financial Trading using Neural Network Distillation
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Visual Question Answering using Active Perception on Static Images
+  authors:
+  - T. Bozinis
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition (ICPR)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Universal Style Transfer using Sub-style Decomposition
+  authors:
+  - P. Pegios
+  - N. Passalis
+  - A. Tefas
+  publisher: Hellenic Conference on Artificial Intelligence (SETN)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Training Noise-resilient Recurrent Photonic Networks for Financial Time Series Analysis
+  authors:
+  - N. Passalis
+  - M. Kirtas
+  - G. Mourgias-Alexandris
+  - G. Dabos
+  - N. Pleros
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Robust Hypersphere-based Weight Imprinting for Few-shot Learning
+  authors:
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Different Color Spaces in Deep Learning-based Water Segmentation for Autonomous Marine Operations
+  authors:
+  - J. Taipalmaa
+  - N. Passalis
+  - J. Raitoharju
+  publisher: IEEE International Conference on Image Processing (ICIP)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Adaptive Normalization for Forecasting Limit Order Book Data using Convolutional Neural Networks
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE International Conference on Acoustics, Speech, Signal Processing (ICASSP)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: A Webots-based Deep Reinforcement Learning Framework for Robotics
+  authors:
+  - M. Kirtas
+  - K. Tsampazis
+  - N. Passalis
+  - Anastasios Tefas
+  publisher: International Conference on Artificial Intelligence Applications and Innovations
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: All-optical recurrent neural network with sigmoid activation function
+  authors:
+  - G. Mourgias-Alexandris
+  - G. Dabos
+  - N. Passalis
+  - A. Tefas
+  - A. Totovic
+  - N. Pleros
+  publisher: Optical Fiber Communication Conference (OFC)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Adaptive Initialization for Recurrent Photonic Networks using Sigmoidal Activations
+  authors:
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE International Symposium on Circuits & Systems (ISCAS)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Multilayer Probabilistic Knowledge Transfer for Learning Image Representations
+  authors:
+  - N. Passalis
+  - M. Tzelepi
+  - A. Tefas
+  publisher: IEEE International Symposium on Circuits & Systems (ISCAS)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'aColor: Mechatronics, Machine Learning, Communications in an Unmanned Surface Vehicle'
+  authors:
+  - '...'
+  - N. Passalis
+  - '...'
+  publisher: Transport Research Arena Conference (TRA2020)
+  date: '2020-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Adaptive Input Normalization for Time Series Forecasting
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Variance-preserving deep metric learning for content-based image retrieval
+  authors:
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Neuromorphic Photonics with Coherent Linear Neurons using dual-IQ modulation cells
+  authors:
+  - G. Mourgias-Alexandris
+  - A. Totovic
+  - A. Tsakyridis
+  - N. Passalis
+  - A. Tefas K. Vyrsokinos
+  - N. Pleros
+  publisher: Journal of Lightwave Technology
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Visual representation decoding from human brain activity using machine learning: A baseline study'
+  authors:
+  - A. Papadimitriou
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Discriminative clustering using regularized subspace learning
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Continuous Drone Control using Deep Reinforcement Learning for Frontal View Person Shooting
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Neural Computing and Applications
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Training Deep Photonic Convolutional Neural Networks with Sinusoidal Activations
+  authors:
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - A. Tsakyridis
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE Transactions on Emerging Topics in Computational Intelligence
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Machine learning for forecasting mid price movement using limit order book data
+  authors:
+  - P. Nousi
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE Access
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Reinforcement Learning for Controlling Frontal Person Close-up Shooting
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Neurocomputing
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: An all-optical neuron with sigmoid activation function
+  authors:
+  - G. Mourgias-Alexandris
+  - A. Tsakyridis
+  - N. Passalis
+  - A. Tefas
+  - K. Vyrsokinos
+  - and N. Pleros
+  publisher: Optics Express
+  date: '2019-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'High-Resolution Water Segmentation for Autonomous Unmanned Surface Vehicles: A novel dataset and evaluation'
+  authors:
+  - J. Taipalmaa
+  - N. Passalis
+  - H. Zhang
+  - M. Gabbouj
+  - J. Raitoharju
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Reversible Privacy Preservation Using Multi-level Encryption and Compressive Sensing
+  authors:
+  - M. Yamac
+  - M. Ahishali
+  - N. Passalis
+  - J. Raitharju
+  - M. Gabbouj
+  - B. Sankur
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Less is More: Deep Learnig using Subjective Annotations for Sentiment Analysis from Social Media'
+  authors:
+  - C. Tzogka
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Curriculum-based Teacher Ensemble for Robust Neural Network Distillation
+  authors:
+  - G. Panagiotatos
+  - N. Passalis
+  - A. Iosifidis
+  - M. Gabbouj
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Adaptive Inference using Hierarchical Convolutional Bag-of-Features for Low-power Embedded Platforms
+  authors:
+  - N. Passalis
+  - J. Raitoharju
+  - A. Tefas
+  - M. Gabbouj
+  publisher: IEEE International Conference on Image Processing (ICIP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Class-based Variational Representation Learning for Robust Image Retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - A. Iosifidis
+  - M. Gabbouj
+  publisher: IEEE International Conference on Image Processing (ICIP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Temporal Logistic Bag-of-Features for Forecasting High Frequency Limit Order Book Time Series
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE International Conference on Acoustics, Speech, Signal Processing (ICASSP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Reinforcement Learning for Financial Trading using Price Trailing
+  authors:
+  - K. Saitas-Zarkias
+  - N. Passalis
+  - A. Tsantekidis
+  - A. Tefas
+  publisher: IEEE International Conference on Acoustics, Speech, Signal Processing (ICASSP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Variance Preserving Initialization for Training Deep Neuromorphic Photonic Networks with Sinusoidal Activations
+  authors:
+  - N. Passalis
+  - G. Mourgias-Alexandris
+  - A. Tsakyridis
+  - N. Pleros
+  - A. Tefas
+  publisher: IEEE International Conference on Acoustics, Speech, Signal Processing (ICASSP)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Experimental demonstration of an optical neuron with a logistic Sigmoid activation function
+  authors:
+  - G. Mourgias-Alexandris
+  - A. Tsakyridis
+  - N. Passalis
+  - A. Tefas
+  - N. Pleros
+  publisher: Optical Fiber Communication Conference (OFC)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Face Verification and Recognition for Digital Forensics and Information Security
+  authors:
+  - G. Amato
+  - F. Falchi
+  - C. Gennaro
+  - F. Massoli
+  - N. Passalis
+  - A. Tefas
+  - A. Trivilini
+  - C. Vairo
+  publisher: International Symposium on Digital Forensic and Security (ISDFS)
+  date: '2019-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Unsupervised knowledge transfer using similarity embeddings
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Training lightweight deep convolutional neural networks using bag-of-features pooling
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Temporal bag-of-features learning for predicting mid price movements using high frequency limit order book data
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE Transactions on Emerging Topics in Computational Intelligence
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Interactive dimensionality reduction using similarity projections
+  authors:
+  - D. Spathis
+  - N. Passalis
+  - A. Tefas
+  publisher: Knowledge-Based Systems
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning bag-of-embedded-words representations for textual information retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Long Term Temporal Averaging for Stochastic Optimization of Deep Neural Networks
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Neural Computing and Applications
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: 'PySEF: A python library for similarity-based dimensionality reduction'
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Knowledge-Based Systems
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Explicit ensemble attention learning for improving visual question answering
+  authors:
+  - V. Lioutas
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition Letters
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Information Clustering using Manifold-based Optimization of the Bag-of-Features Representation
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Transactions on Cybernetics
+  date: '2018-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Probabilistic knowledge transfer for deep representation learning
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: European Conference on Computer Vision (ECCV)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Neural Network Knowledge Transfer using Unsupervised Similarity Matching
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition (ICPR)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Efficient camera control using 2d visual information for unmanned aerial vehicle-based cinematography
+  authors:
+  - N. Passalis
+  - A. Tefas
+  - I. Pitas
+  publisher: International Symposium on Circuits and Systems (ISCAS)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Visual Question Answering Using Explicit Visual Attention
+  authors:
+  - V. Lioutas
+  - N. Passalis
+  - A. Tefas
+  publisher: International Symposium on Circuits and Systems (ISCAS)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Accelerating Similarity-based discriminant analysis using class-specific prototypes
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Image Processing (ICIP)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning discriminative representations for big data clustering using similarity-based dimensionality reduction
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Image, Video, Multidimensional Signal Processing (IVMSP) Workshop
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep reinforcement learning for frontal view person shooting using drones
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Fast, visual and interactive semi-supervised dimensionality reduction
+  authors:
+  - D. Spathis
+  - N. Passalis
+  - A. Tefas
+  publisher: European Conference on Computer Vision Workshops - International Workshop on Compact and Efficient Feature Representation and Learning in Computer Vision - (ECCVW)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Decoding generic visual representations from human brain activity using machine learning
+  authors:
+  - A. Papadimitriou
+  - N. Passalis
+  - A. Tefas
+  publisher: European Conference on Computer Vision Workshops - Workshop on Brain Driven Computer Vision - (ECCVW)
+  date: '2018-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Deep Learning Analytics
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: 'Machine Learning Paradigms: Advances in Data Analytics (G. Tsihrintzis, D. Sotiropoulos, L. Jain, eds.), Springer'
+  date: '2018-01-01'
+  type: chapter
+  tags:
+  - book chapter
+  plugin: sources.py
+  file: sources.yaml
+- title: Dimensionality Reduction using Similarity-induced Embeddings
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2017-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Neural Bag-of-Features Learning
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Pattern Recognition
+  date: '2017-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning Neural Bag-of-Features for Large Scale Information Retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: 'IEEE Transactions on Systems, Man, Cybernetics: Systems'
+  date: '2017-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Learning Bag-of-Features Pooling for Deep Convolutional Neural Networks
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Computer Vision (ICCV)
+  date: '2017-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Time-series Classification Using Neural Bag-of-Features
+  authors:
+  - N. Passalis
+  - A. Tsantekidis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2017-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Concept Detection and Face Pose Estimation Using Lightweight Convolutional Neural Networks for Steering Drone Video Shooting
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2017-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Improving Face Pose Estimation Using Long-Term Temporal Averaging for Stochastic Optimization
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Engineering Applications of Neural Networks (EANN)
+  date: '2017-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Using deep learning to detect price change indications in financial markets
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: European Signal Processing Conference (EUSIPCO)
+  date: '2017-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Forecasting stock prices from the limit order book using convolutional neural networks
+  authors:
+  - A. Tsantekidis
+  - N. Passalis
+  - A. Tefas
+  - J. Kanniainen
+  - M. Gabbouj
+  - A. Iosifidis
+  publisher: IEEE Conference on Business Informatics (CBI)
+  date: '2017-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Entropy Optimized Feature-Based Bag-of-Words Representation for Information Retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2016-01-01'
+  type: journal
+  tags:
+  - journal
+  plugin: sources.py
+  file: sources.yaml
+- title: Spectral Clustering using Optimized Bag-of-Features
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: Hellenic Conference on Artificial Intelligence (SETN)
+  date: '2016-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Spatial Bag of Features Learning for Large Scale Face Image Retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: INNS Big Data
+  date: '2016-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: Bag of Embedded Words Learning for Text Retrieval
+  authors:
+  - N. Passalis
+  - A. Tefas
+  publisher: International Conference on Pattern Recognition (ICPR)
+  date: '2016-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Multispot: Spotting sentiments with semantic aware multilevel cascaded analysis'
+  authors:
+  - D. Chatzakou
+  - N. Passalis
+  - A. Vakali
+  publisher: International Conference on Big Data Analytics and Knowledge Discovery
+  date: '2015-01-01'
+  type: conference
+  tags:
+  - conference
+  plugin: sources.py
+  file: sources.yaml

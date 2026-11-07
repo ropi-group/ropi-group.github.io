@@ -1,0 +1,31 @@
+- id: autonomous
+  title: AI for Autonomous & Robotic Systems
+  icon: fa-solid fa-robot
+  summary: Learning-based perception, decision making, and adaptation for autonomous agents.
+  description: >-
+    Learning-based perception, decision making, and adaptation that allow autonomous agents
+    to operate safely and reliably in complex, dynamic, and uncertain real-world environments.
+
+- id: vision
+  title: Robotic & Computer Vision
+  icon: fa-solid fa-eye
+  summary: Environmental and human-centered perception, analysis, and interaction.
+  description: >-
+    Environmental and human-centered analysis and interaction: scene understanding, pose
+    estimation, active perception, and visual analysis for robots.
+
+- id: drl
+  title: Deep Reinforcement Learning
+  icon: fa-solid fa-chess-knight
+  summary: Robust, data-efficient reinforcement learning for robots and autonomous systems.
+  description: >-
+    Robust and data-efficient reinforcement learning for control, navigation, and localization,
+    including UAVs and other autonomous platforms.
+
+- id: efficient
+  title: Efficient AI
+  icon: fa-solid fa-microchip
+  summary: Deep learning for systems with compute, energy, and latency constraints.
+  description: >-
+    Lightweight, energy-efficient, and adaptive deep learning for embedded and resource-constrained
+    platforms, including neuromorphic and photonic hardware.

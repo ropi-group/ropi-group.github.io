@@ -1,0 +1,95 @@
+# site properties and page defaults
+title: RoPI
+subtitle: Robot Perception and Intelligence
+description: >-
+  RoPI is a research group at the Aristotle University of Thessaloniki working at the
+  intersection of artificial intelligence, computer vision, and robotics.
+header: ""
+footer: ""
+header-dark: false
+footer-dark: true
+proofer: false
+
+address: >-
+  Office 11, Mezzanine, Biology Building, University Campus,
+  Aristotle University of Thessaloniki, Greece
+
+# site social media and other links
+links:
+  email: passalis@csd.auth.gr
+  orcid: 0000-0003-1177-9139
+  google-scholar: 5XJkgHYAAAAJ
+  github: ropi-group
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+  # markdown files in /_papers
+  - scope:
+      type: "papers"
+    values:
+      layout: paper
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+    permalink: /news/:year/:title/
+  # generate page for each paper
+  papers:
+    output: true
+    permalink: /papers/:name/
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+  - .nojekyll
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
+
+# configure jekyll spaceship
+jekyll-spaceship:
+  mathjax-processor:
+    src:
+      - https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js

@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="paper-head">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.authors %}
+    <p class="paper-authors">
+      {{ page.authors | join: ", " | replace: "N. Passalis", "**N. Passalis**" | replace: "Nikolaos Passalis", "**Nikolaos Passalis**" | markdownify | remove: "<p>" | remove: "</p>" }}
+    </p>
+  {% endif %}
+
+  <p class="paper-venue">
+    {{ page.venue }}{% if page.year %}, {{ page.year }}{% endif %}
+  </p>
+
+  {% if page.buttons.size > 0 %}
+    <div class="paper-buttons">
+      {% for button in page.buttons %}
+        {%
+          include button.html
+          type=button.type
+          icon=button.icon
+          text=button.text
+          link=button.link
+        %}
+      {% endfor %}
+      {% if page.bibtex %}
+        {% capture bibtex_link %}{{ page.url }}#bibtex{% endcapture %}
+        {% include button.html icon="fa-solid fa-quote-right" text="BibTeX" link=bibtex_link %}
+      {% endif %}
+    </div>
+  {% endif %}
+</div>
+
+{% if page.image %}
+  {% include figure.html image=page.image caption=page.image_caption width="100%" %}
+{% endif %}
+
+{% if page.abstract %}
+<h2>Abstract</h2>
+
+{{ page.abstract | markdownify }}
+{% endif %}
+
+{% if page.youtube %}
+<h2>Video</h2>
+
+<div class="paper-video">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}"
+    title="{{ page.title | xml_escape }}"
+    allowfullscreen
+  ></iframe>
+</div>
+{% endif %}
+
+{{ content }}
+
+{% if page.bibtex %}
+<h2 id="bibtex">BibTeX</h2>
+
+<pre class="paper-bibtex"><code>{{ page.bibtex | strip | xml_escape }}</code></pre>
+{% endif %}
+
+<p class="center">
+  <a href="{{ "publications" | relative_url }}">← All publications</a>
+</p>
