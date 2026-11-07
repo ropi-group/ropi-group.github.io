@@ -20,7 +20,7 @@ nav:
 
 | Course | Level | Years |
 |:---|:---|:---|
-| Introduction to Computers | Undergraduate | 2024 – 2026 |
-| Programming Languages | Undergraduate | 2024 – 2026 |
-| Mathematics II | Undergraduate | 2024 – 2026 |
-| Statistics | Undergraduate | 2024 – 2026 |
+| Introduction to Computers | Undergraduate | 2023 – 2025 |
+| Programming Languages | Undergraduate | 2023 – 2025 |
+| Mathematics II | Undergraduate | 2024 – 2025 |
+| Statistics | Undergraduate | 2024 – 2025 |
