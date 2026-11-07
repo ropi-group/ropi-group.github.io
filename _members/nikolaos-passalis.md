@@ -15,20 +15,9 @@ links:
   github: passalis
 ---
 
-Nikolaos Passalis is an Assistant Professor at the Department of Informatics, Aristotle University
-of Thessaloniki (AUTH). Previously, he was an Assistant Professor of Computational Intelligence at
-the Department of Chemical Engineering of AUTH. He received his B.Sc., M.Sc.,
-and Ph.D. in Informatics from AUTH. His Ph.D. on deep learning methods for data analysis was
-supervised by Prof. Anastasios Tefas and supported by a grant from the Hellenic Foundation for
-Research and Innovation (HFRI). He was a postdoctoral researcher at Tampere University, Finland,
-and at the Computational Intelligence and Deep Learning group of AUTH, where he served on the
-technical management team of the H2020 OpenDR project.
+Nikolaos Passalis is an Assistant Professor with the Department of Informatics, Aristotle University of Thessaloniki (AUTh), Greece. He received the B.Sc., M.Sc., and Ph.D. degrees in Informatics from AUTh in 2013, 2015, and 2018, respectively. He was a Postdoctoral Researcher with Tampere University, Finland (2018-2019), and with the Computational Intelligence and Deep Learning (CIDL) Group, AUTh (2019-2024), and from 2024 to 2026 he was an Assistant Professor of Computational Intelligence with the Department of Chemical Engineering, AUTh.
 
-His research lies at the intersection of artificial intelligence, computer vision, and robotics.
-He focuses on learning algorithms and adaptive agents that enable robotic and autonomous systems
-to perceive, interpret, and act in complex real-world environments. He has co-authored more than
-200 publications, including 88 journal papers. He is an Associate Editor of the *IEEE Transactions
-on Neural Networks and Learning Systems* and *Neurocomputing*, and an IEEE Senior Member.
+He has co-authored more than 90 journal articles, 115 conference papers, and eight book chapters, which have received over 7,800 citations (Google Scholar, h-index 44). He is currently an Associate Editor-in-Chief of Neurocomputing and an Associate Editor of IEEE Transactions on Neural Networks and Learning Systems, and received the AUTh Young Researcher Excellence Award in 2025. His research interests include deep learning, computer vision, robotics and autonomous systems, and interdisciplinary applications of artificial intelligence.
 
 **Office:** Office 11, Mezzanine, Biology Building, University Campus, AUTH
 
@@ -56,8 +45,9 @@ on Neural Networks and Learning Systems* and *Neurocomputing*, and an IEEE Senio
 
 ## Editorial Service
 
+- Associate Editor in Chief, *Neurocomputing* (2026 – present)
 - Associate Editor, *IEEE Transactions on Neural Networks and Learning Systems* (2024 – present)
-- Associate Editor, *Neurocomputing* (2021 – present)
+- Associate Editor, *Neurocomputing* (2021 – 2026)
 - Section Editor, *Data in Brief* (2023 – 2025)
 
 ## Research Projects
