@@ -1,9 +1,10 @@
 # site properties and page defaults
 title: RoPI
-subtitle: Robot Perception and Intelligence
+subtitle: Robotic Perception and Intelligence
 description: >-
-  RoPI is a research group at the Aristotle University of Thessaloniki working at the
-  intersection of artificial intelligence, computer vision, and robotics.
+  RoPI is a research group within the Artificial Intelligence and Information Analysis (AIIA)
+  Laboratory at the Aristotle University of Thessaloniki, working at the intersection of
+  artificial intelligence, computer vision, and robotics.
 header: ""
 footer: ""
 header-dark: false
