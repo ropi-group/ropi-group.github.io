@@ -6,11 +6,13 @@
 <div class="hero">
   <div class="hero-text">
     <p class="hero-kicker">Aristotle University of Thessaloniki</p>
-    <h1 class="hero-title">Robot Perception<br>and Intelligence</h1>
+    <h1 class="hero-title">Robotic Perception<br>and Intelligence</h1>
     <p class="hero-lead">
-      We develop learning algorithms, computational models, and adaptive agents that enable
-      robotic and autonomous systems to perceive, interpret, and act in complex, dynamic, and
-      uncertain real-world environments.
+      RoPI is a research group working at the intersection of artificial intelligence,
+      computer vision, and robotics. It is part of the
+      <a href="https://aiia.csd.auth.gr/">Artificial Intelligence and Information Analysis (AIIA) Laboratory</a>
+      at the <a href="https://www.csd.auth.gr/">School of Informatics</a>,
+      <a href="https://www.auth.gr/">Aristotle University of Thessaloniki</a>.
     </p>
     <div class="hero-buttons">
       {% include button.html link="research" text="Our research" icon="fa-solid fa-arrow-right" flip=true %}
